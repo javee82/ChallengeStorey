@@ -1,7 +1,7 @@
 # ChallengeStorey
 
-IMPORTANTE: Para poder tener acceso a los datos, recuerde que debe configurar la conexión a la base de datos en el archivo appsetings.json
-ejecutar en la consola el siguiente comando: update-database
+IMPORTANTE: Para poder tener acceso a los datos, recuerde que debe configurar la conexión a la base de datos en el archivo appsetings.json.
+Ejecutar en la consola el siguiente comando: update-database
 Si todo salio bien deberia tener creada la nueva base de datos. Ejecutar una nueva consulta desde SQL Server utilizando los siguientes scripts, de lo contrario quedará vacia.
 
 INSERT INTO Categorias(nombre) VALUES ('Iluminacion')
