@@ -1,0 +1,6 @@
+@ChallengeStorey_HostAddress = http://localhost:5095
+
+GET {{ChallengeStorey_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
